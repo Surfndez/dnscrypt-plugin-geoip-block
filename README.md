@@ -33,5 +33,5 @@ This text file should list one country per line. For example:
 The plugin can then be loaded like any regular dnscrypt plugin, such as:
 
 ```bash
-# dnscrypt-proxy --plugin libgeoip_block,--blacklist=/etc/blk-countries,--geoipdb=/etc/GeoIP.dat
+$ sudo dnscrypt-proxy --plugin libgeoip_block,--blacklist=/etc/blk-countries,--geoipdb=/etc/GeoIP.dat
 ```
