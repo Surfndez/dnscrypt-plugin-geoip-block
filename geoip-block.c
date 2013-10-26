@@ -132,7 +132,7 @@ dcplugin_init(DCPlugin * const dcplugin, int argc, char *argv[])
     if (context == NULL) {
         return -1;
     }
-    context->blacklist = NULL;    
+    context->blacklist = NULL;
     context->geoip = NULL;
     optind = 0;
 #ifdef _OPTRESET
