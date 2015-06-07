@@ -15,7 +15,7 @@ Installation
 ------------
 
 ```bash
-$ cmake . && make
+$ mkdir build && cd build && cmake .. && make
 ```
 
 The resulting plugin can be copied anyhwere on the system.
