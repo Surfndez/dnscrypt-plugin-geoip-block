@@ -18,7 +18,7 @@ Installation
 $ mkdir build && cd build && cmake .. && make
 ```
 
-The resulting plugin can be copied anyhwere on the system.
+The resulting plugin can be copied anywhere on the system.
 
 Example usage
 -------------
