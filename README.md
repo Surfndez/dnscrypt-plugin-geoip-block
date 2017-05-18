@@ -1,7 +1,7 @@
 GeoIP plugin for DNSCrypt
 =========================
 
-This is a [dnscrypt](http://dnscrypt.org) plugin to return a `REFUSED`
+This is a [dnscrypt](https://dnscrypt.org) plugin to return a `REFUSED`
 response code to DNS queries resolving to a given set of countries.
 
 Dependencies
